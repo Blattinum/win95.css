@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e2912588-c01c-486e-a032-b2279159996e/deploy-status)](https://app.netlify.com/sites/dreamy-kalam-43ed78/deploys)
 
 <p align="center">
     <a href="https://alexbsoft.github.io/win95.css/">
